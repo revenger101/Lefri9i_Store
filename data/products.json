@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Club Africain Home Jersey 2025",
+        "description": "Official home jersey for the 2025 season.",
+        "price": 110.00,
+        "image": "https://clubafricain.com/_next/image?url=https%3A%2F%2Fstorage-tn-1.superverse.tech%2Fscalemerce-stagging%2FWhatsApp-Image-2024-08-30-at-19.16.43-scaled-1728061112130.jpg&w=640&q=100&dpl=dpl_6NZqZ5p1Rj7gopsTSu3ohAyhKDgi"
+    },
+    {
+        "id": 2,
+        "name": "Maillot Officiel Basket Ball",
+        "description": "Maillot Officiel Basket Ball 2024-2025",
+        "price": 75.00,
+        "image": "https://clubafricain.com/_next/image?url=https%3A%2F%2Fstorage-tn-1.superverse.tech%2Fscalemerce-stagging%2FWhatsApp%2520Image%25202024-09-25%2520at%25207.37.15%2520PM-1728065294185.jpeg&w=640&q=100&dpl=dpl_6NZqZ5p1Rj7gopsTSu3ohAyhKDgi"
+    },
+    {
+        "id": 3,
+        "name": "Capuche (Enfant)",
+        "description": "Capuche أحنا ملاين ما نموتوش (Enfant)",
+        "price": 65.00,
+        "image": "https://clubafricain.com/_next/image?url=https%3A%2F%2Fstorage-tn-1.superverse.tech%2Fscalemerce-stagging%2FFB_IMG_1724989032777-1728061112129.jpg&w=640&q=100&dpl=dpl_6NZqZ5p1Rj7gopsTSu3ohAyhKDgi"
+    },
+    {
+        "id": 4,
+        "name": "Capuche Sans Manche",
+        "description": "Capuche Sans Manche 24/25 (Noir/Blanc/Marine)",
+        "price":65.00,
+        "image": "https://clubafricain.com/_next/image?url=https%3A%2F%2Fstorage-tn-1.superverse.tech%2Fscalemerce-stagging%2FFB_IMG_1724989027393-1728061112128.jpg&w=640&q=100&dpl=dpl_6NZqZ5p1Rj7gopsTSu3ohAyhKDgi"
+    }
+]
