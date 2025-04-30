@@ -108,4 +108,4 @@ Welcome to **Lefri9i Store**, the official online merchandise store for **Club A
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/revenger101/Lefri9i_Store.git>
